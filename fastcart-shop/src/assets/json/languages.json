@@ -1,0 +1,52 @@
+ [
+    {
+      "code": "en",
+      "name": "English",
+      "imageUrl": "https://flagcdn.com/w320/us.png"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "imageUrl": "https://flagcdn.com/w320/es.png"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "imageUrl": "https://flagcdn.com/w320/fr.png"
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "imageUrl": "https://flagcdn.com/w320/de.png"
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "imageUrl": "https://flagcdn.com/w320/it.png"
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "imageUrl": "https://flagcdn.com/w320/ua.png"
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "imageUrl": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "imageUrl": "https://flagcdn.com/w320/sa.png"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "imageUrl": "https://flagcdn.com/w320/jp.png"
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "imageUrl": "https://flagcdn.com/w320/kr.png"
+    }
+  ]
